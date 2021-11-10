@@ -1,0 +1,1196 @@
+,ticker,value
+0,TWTR,Interactive Media & Services
+1,X,Metals & Mining
+2,CMCSA,Media
+3,CSCO,Communications Equipment
+4,PINS,Interactive Media & Services
+5,TLRY,Pharmaceuticals
+6,UAL,Airlines
+7,ET,"Oil, Gas & Consumable Fuels"
+8,EDU,Diversified Consumer Services
+9,MRK,Pharmaceuticals
+10,FB,Interactive Media & Services
+11,INTC,Semiconductors & Semiconductor
+12,PFE,Pharmaceuticals
+13,MSFT,Software
+14,UBER,Road & Rail
+15,NVDA,Semiconductors & Semiconductor
+16,CCL,"Hotels, Restaurants & Leisure"
+17,GE,Industrial Conglomerates
+18,C,Banks
+19,WFC,Banks
+20,DBX,Software
+21,UNIT,Equity Real Estate Investment
+22,WMB,"Oil, Gas & Consumable Fuels"
+23,GREE,Software
+24,TCOM,"Hotels, Restaurants & Leisure"
+25,ATOS,Biotechnology
+26,AIG,Insurance
+27,JWN,Multiline Retail
+28,NYMT,Mortgage Real Estate Investmen
+29,CRTX,Biotechnology
+30,BLNK,Electrical Equipment
+31,GOEV,Automobiles
+32,TPX,Household Durables
+33,STLA,Automobiles
+34,ETSY,Internet & Direct Marketing Re
+35,SAVA,Pharmaceuticals
+36,CAR,Road & Rail
+37,TWO,Mortgage Real Estate Investmen
+38,SPG,Equity Real Estate Investment
+39,UAA,"Textiles, Apparel & Luxury Goo"
+40,TAL,Diversified Consumer Services
+41,LVS,"Hotels, Restaurants & Leisure"
+42,IVR,Mortgage Real Estate Investmen
+43,AMZN,Internet & Direct Marketing Re
+44,BBIG,Leisure Products
+45,SOFI,Consumer Finance
+46,OXY,"Oil, Gas & Consumable Fuels"
+47,SQ,IT Services
+48,RIG,Energy Equipment & Services
+49,JD,Internet & Direct Marketing Re
+50,CRWD,Software
+51,GNUS,Leisure Products
+52,TMUS,Wireless Telecommunication Ser
+53,NVAX,Biotechnology
+54,NET,IT Services
+55,DOCU,Software
+56,GPS,Specialty Retail
+57,KHC,Food Products
+58,IGT,"Hotels, Restaurants & Leisure"
+59,CHWY,Internet & Direct Marketing Re
+60,NEE,Electric Utilities
+61,AR,"Oil, Gas & Consumable Fuels"
+62,CPNG,Internet & Direct Marketing Re
+63,MO,Tobacco
+64,XPEV,Automobiles
+65,COIN,Capital Markets
+66,IPOF,
+67,AMAT,Semiconductors & Semiconductor
+68,MRO,"Oil, Gas & Consumable Fuels"
+69,JNJ,Pharmaceuticals
+70,SNAP,Interactive Media & Services
+71,AMC,Entertainment
+72,SNDL,Pharmaceuticals
+73,GM,Automobiles
+74,MU,Semiconductors & Semiconductor
+75,FCX,Metals & Mining
+76,XOM,"Oil, Gas & Consumable Fuels"
+77,BA,Aerospace & Defense
+78,DIS,Entertainment
+79,VIAC,Media
+80,SPLK,Software
+81,LAZR,Auto Components
+82,ABT,Health Care Equipment & Suppli
+83,AMRN,Biotechnology
+84,HPQ,"Technology Hardware, Storage &"
+85,OPK,Biotechnology
+86,SCHW,Capital Markets
+87,FANG,"Oil, Gas & Consumable Fuels"
+88,W,Internet & Direct Marketing Re
+89,BILI,Entertainment
+90,MA,IT Services
+91,JMIA,Internet & Direct Marketing Re
+92,KMI,"Oil, Gas & Consumable Fuels"
+93,FFIE,Automobiles
+94,ANY,Software
+95,PG,Household Products
+96,AFRM,IT Services
+97,MPC,"Oil, Gas & Consumable Fuels"
+98,TELL,"Oil, Gas & Consumable Fuels"
+99,WBA,Food & Staples Retailing
+100,DM,Machinery
+101,DISH,Media
+102,GS,Capital Markets
+103,EPD,"Oil, Gas & Consumable Fuels"
+104,EXPE,"Hotels, Restaurants & Leisure"
+105,SE,Entertainment
+106,MGM,"Hotels, Restaurants & Leisure"
+107,GOOGL,Interactive Media & Services
+108,DOW,Chemicals
+109,FUTU,Capital Markets
+110,ADI,Semiconductors & Semiconductor
+111,ISRG,Health Care Equipment & Suppli
+112,ROOT,Insurance
+113,TTCF,Food Products
+114,UNP,Road & Rail
+115,TSN,Food Products
+116,XLNX,Semiconductors & Semiconductor
+117,CAN,"Technology Hardware, Storage &"
+118,COMM,Communications Equipment
+119,PSX,"Oil, Gas & Consumable Fuels"
+120,TJX,Specialty Retail
+121,COST,Food & Staples Retailing
+122,GEO,Equity Real Estate Investment
+123,BTU,"Oil, Gas & Consumable Fuels"
+124,MET,Insurance
+125,AVGO,Semiconductors & Semiconductor
+126,CVNA,Specialty Retail
+127,PANW,Software
+128,VLO,"Oil, Gas & Consumable Fuels"
+129,BEKE,Real Estate Management & Devel
+130,MDT,Health Care Equipment & Suppli
+131,VMW,Software
+132,MNDT,Software
+133,APA,"Oil, Gas & Consumable Fuels"
+134,CEI,"Oil, Gas & Consumable Fuels"
+135,GOGO,Wireless Telecommunication Ser
+136,FTCH,Internet & Direct Marketing Re
+137,SWN,"Oil, Gas & Consumable Fuels"
+138,BNTX,Biotechnology
+139,RLX,Tobacco
+140,RBLX,Entertainment
+141,KSS,Multiline Retail
+142,CZR,"Hotels, Restaurants & Leisure"
+143,MUX,Metals & Mining
+144,TRIP,Interactive Media & Services
+145,TIGR,Capital Markets
+146,UWMC,Thrifts & Mortgage Finance
+147,CRSR,"Technology Hardware, Storage &"
+148,PEP,Beverages
+149,CTRA,"Oil, Gas & Consumable Fuels"
+150,ENPH,Semiconductors & Semiconductor
+151,SNOW,IT Services
+152,FISV,IT Services
+153,USB,Banks
+154,TWLO,IT Services
+155,GGPI,
+156,ADBE,Software
+157,MCD,"Hotels, Restaurants & Leisure"
+158,U,Software
+159,MTCH,Interactive Media & Services
+160,INO,Biotechnology
+161,AGC,
+162,CLNE,"Oil, Gas & Consumable Fuels"
+163,SAVE,Airlines
+164,BBY,Specialty Retail
+165,PM,Tobacco
+166,AGEN,Biotechnology
+167,LLY,Pharmaceuticals
+168,UNH,Health Care Providers & Servic
+169,HYLN,Machinery
+170,LYV,Entertainment
+171,AMRS,Chemicals
+172,BCRX,Biotechnology
+173,BSX,Health Care Equipment & Suppli
+174,DBRG,Equity Real Estate Investment
+175,PAA,"Oil, Gas & Consumable Fuels"
+176,DDOG,Software
+177,SPWR,Semiconductors & Semiconductor
+178,DELL,"Technology Hardware, Storage &"
+179,UPST,Consumer Finance
+180,NEM,Metals & Mining
+181,VTRS,Pharmaceuticals
+182,BKKT,
+183,VIPS,Internet & Direct Marketing Re
+184,COP,"Oil, Gas & Consumable Fuels"
+185,ROKU,Entertainment
+186,HAL,Energy Equipment & Services
+187,EQT,"Oil, Gas & Consumable Fuels"
+188,RKT,Thrifts & Mortgage Finance
+189,LUMN,Diversified Telecommunication
+190,CHPT,Electrical Equipment
+191,OCGN,Biotechnology
+192,FDX,Air Freight & Logistics
+193,BBBY,Specialty Retail
+194,WDC,"Technology Hardware, Storage &"
+195,SRNE,Biotechnology
+196,SIRI,Media
+197,SABR,IT Services
+198,ATUS,Media
+199,FSLY,IT Services
+200,LUV,Airlines
+201,RCL,"Hotels, Restaurants & Leisure"
+202,NKLA,Machinery
+203,LI,Automobiles
+204,FUBO,Interactive Media & Services
+205,PSTH,
+206,PDD,Internet & Direct Marketing Re
+207,SENS,Health Care Equipment & Suppli
+208,SDC,Health Care Equipment & Suppli
+209,FSR,Automobiles
+210,CVX,"Oil, Gas & Consumable Fuels"
+211,CVS,Health Care Providers & Servic
+212,NFLX,Entertainment
+213,TME,Entertainment
+214,MRNA,Biotechnology
+215,SKLZ,Entertainment
+216,IQ,Entertainment
+217,ATVI,Entertainment
+218,SBUX,"Hotels, Restaurants & Leisure"
+219,WKHS,Automobiles
+220,ABNB,"Hotels, Restaurants & Leisure"
+221,COTY,Personal Products
+222,OPEN,Real Estate Management & Devel
+223,DVN,"Oil, Gas & Consumable Fuels"
+224,TTD,Software
+225,LYFT,Road & Rail
+226,AA,Metals & Mining
+227,PROG,Health Care Providers & Servic
+228,TDOC,Health Care Technology
+229,WYNN,"Hotels, Restaurants & Leisure"
+230,PTON,Leisure Products
+231,IBM,IT Services
+232,ABBV,Biotechnology
+233,ZM,Software
+234,MARA,Software
+235,FCEL,Electrical Equipment
+236,ORCL,Software
+237,M,Multiline Retail
+238,BYND,Food Products
+239,NKE,"Textiles, Apparel & Luxury Goo"
+240,CLF,Metals & Mining
+241,JPM,Banks
+242,LCID,Automobiles
+243,PYPL,IT Services
+244,NCLH,"Hotels, Restaurants & Leisure"
+245,DAL,Airlines
+246,DKNG,"Hotels, Restaurants & Leisure"
+247,WISH,Internet & Direct Marketing Re
+248,VZ,Diversified Telecommunication
+249,PLUG,Electrical Equipment
+250,IRNT,Software
+251,BNGO,Life Sciences Tools & Services
+252,PENN,"Hotels, Restaurants & Leisure"
+253,NUE,Metals & Mining
+254,TXN,Semiconductors & Semiconductor
+255,BX,Capital Markets
+256,ZIM,Marine
+257,GOTU,Diversified Consumer Services
+258,HL,Metals & Mining
+259,RTX,Aerospace & Defense
+260,PAGS,IT Services
+261,EBAY,Internet & Direct Marketing Re
+262,NLY,Mortgage Real Estate Investmen
+263,PSFE,IT Services
+264,BTBT,Software
+265,MRVL,Semiconductors & Semiconductor
+266,ON,Semiconductors & Semiconductor
+267,UPS,Air Freight & Logistics
+268,FSLR,Semiconductors & Semiconductor
+269,NRZ,Mortgage Real Estate Investmen
+270,CLOV,Health Care Providers & Servic
+271,GME,Specialty Retail
+272,DISCA,Media
+273,BIDU,Interactive Media & Services
+274,QS,Auto Components
+275,HOOD,Capital Markets
+276,CRM,Software
+277,RIOT,Software
+278,PCG,Electric Utilities
+279,GSAT,Diversified Telecommunication
+280,AXP,Consumer Finance
+281,DNA,Biotechnology
+282,RUN,Electrical Equipment
+283,CSX,Road & Rail
+284,VST,Independent Power and Renewabl
+285,ZS,Software
+286,HIMX,Semiconductors & Semiconductor
+287,LOW,Specialty Retail
+288,KR,Food & Staples Retailing
+289,MLCO,"Hotels, Restaurants & Leisure"
+290,GILD,Biotechnology
+291,QCOM,Semiconductors & Semiconductor
+292,MS,Capital Markets
+293,SPCE,Aerospace & Defense
+294,WMT,Food & Staples Retailing
+295,V,IT Services
+296,ZNGA,Entertainment
+297,BMY,Pharmaceuticals
+298,KO,Beverages
+299,SLB,Energy Equipment & Services
+300,AAPL,"Technology Hardware, Storage &"
+301,TSLA,Automobiles
+302,F,Automobiles
+303,BABA,Internet & Direct Marketing Re
+304,BAC,Banks
+305,T,Diversified Telecommunication
+306,AMD,Semiconductors & Semiconductor
+307,PLTR,Software
+308,AAL,Airlines
+309,NIO,Automobiles
+310,CNC,Health Care Providers & Servic
+311,AI,Software
+312,MVST,Machinery
+313,APO,Capital Markets
+314,RMO,Electrical Equipment
+315,ATER,Household Durables
+316,MAC,Equity Real Estate Investment
+317,NUAN,Software
+318,WDAY,Software
+319,LMND,Insurance
+320,SPIR,Professional Services
+321,FE,Electric Utilities
+322,CRSP,Biotechnology
+323,NOW,Software
+324,FL,Specialty Retail
+325,GLNG,"Oil, Gas & Consumable Fuels"
+326,AMGN,Biotechnology
+327,SWKS,Semiconductors & Semiconductor
+328,CDE,Metals & Mining
+329,IP,Containers & Packaging
+330,NTES,Entertainment
+331,BIIB,Biotechnology
+332,ENDP,Pharmaceuticals
+333,GLW,"Electronic Equipment, Instrume"
+334,COF,Consumer Finance
+335,COUP,Software
+336,MNKD,Biotechnology
+337,DASH,Internet & Direct Marketing Re
+338,PSTG,"Technology Hardware, Storage &"
+339,FINV,Consumer Finance
+340,WE,
+341,GRPN,Internet & Direct Marketing Re
+342,MFA,Mortgage Real Estate Investmen
+343,APPS,Software
+344,UEC,"Oil, Gas & Consumable Fuels"
+345,DHI,Household Durables
+346,KEY,Banks
+347,DLTR,Multiline Retail
+348,NAT,"Oil, Gas & Consumable Fuels"
+349,MOMO,Interactive Media & Services
+350,XP,Capital Markets
+351,FTCV,
+352,TGTX,Biotechnology
+353,WTRH,Internet & Direct Marketing Re
+354,CPRI,"Textiles, Apparel & Luxury Goo"
+355,CAH,Health Care Providers & Servic
+356,EVGO,Specialty Retail
+357,MARK,Internet & Direct Marketing Re
+358,YY,Interactive Media & Services
+359,AFL,Insurance
+360,GPRO,Household Durables
+361,INSG,Communications Equipment
+362,VRM,Specialty Retail
+363,QRTEA,Internet & Direct Marketing Re
+364,VLDR,"Electronic Equipment, Instrume"
+365,DHR,Life Sciences Tools & Services
+366,NXTD,Software
+367,WEN,"Hotels, Restaurants & Leisure"
+368,LEN,Household Durables
+369,BLMN,"Hotels, Restaurants & Leisure"
+370,RRC,"Oil, Gas & Consumable Fuels"
+371,EA,Entertainment
+372,STX,"Technology Hardware, Storage &"
+373,CSTM,Metals & Mining
+374,BKR,Energy Equipment & Services
+375,AEO,Specialty Retail
+376,ASTR,Aerospace & Defense
+377,KBH,Household Durables
+378,MAR,"Hotels, Restaurants & Leisure"
+379,TMC,Metals & Mining
+380,OVV,"Oil, Gas & Consumable Fuels"
+381,BTWN,
+382,HTZZ,Road & Rail
+383,GRWG,Specialty Retail
+384,EOG,"Oil, Gas & Consumable Fuels"
+385,GSM,Metals & Mining
+386,AHT,Equity Real Estate Investment
+387,BARK,Internet & Direct Marketing Re
+388,CCXI,Biotechnology
+389,HON,Industrial Conglomerates
+390,HUYA,Entertainment
+391,GNW,Insurance
+392,CLSK,Software
+393,PNC,Banks
+394,HPE,"Technology Hardware, Storage &"
+395,LEV,Machinery
+396,PATH,Software
+397,YNDX,Interactive Media & Services
+398,SKT,Equity Real Estate Investment
+399,TTWO,Entertainment
+400,STNE,IT Services
+401,TFC,Banks
+402,AES,Independent Power and Renewabl
+403,PRU,Insurance
+404,CIFR,Software
+405,STEM,Electrical Equipment
+406,TEAM,Software
+407,MCMJ,
+408,VUZI,Household Durables
+409,STLD,Metals & Mining
+410,NTNX,Software
+411,APPH,Food Products
+412,ZEN,Software
+413,AMWL,Health Care Technology
+414,MP,Metals & Mining
+415,STNG,"Oil, Gas & Consumable Fuels"
+416,MSTR,Software
+417,EXC,Electric Utilities
+418,DKS,Specialty Retail
+419,TRIT,Software
+420,FLR,Construction & Engineering
+421,HOG,Automobiles
+422,SFIX,Internet & Direct Marketing Re
+423,BODY,Diversified Consumer Services
+424,REI,"Oil, Gas & Consumable Fuels"
+425,REKR,Software
+426,PTRA,Machinery
+427,EVFM,Pharmaceuticals
+428,DT,Software
+429,RAD,Food & Staples Retailing
+430,HLT,"Hotels, Restaurants & Leisure"
+431,DDD,"Technology Hardware, Storage &"
+432,ELY,Leisure Products
+433,MMAT,Semiconductors & Semiconductor
+434,CNK,Entertainment
+435,CMPS,Biotechnology
+436,OKTA,IT Services
+437,GT,Auto Components
+438,KPLT,Consumer Finance
+439,SONO,Household Durables
+440,PBF,"Oil, Gas & Consumable Fuels"
+441,RF,Banks
+442,WY,Equity Real Estate Investment
+443,MNTS,Aerospace & Defense
+444,ACN,IT Services
+445,CXW,Commercial Services & Supplies
+446,MILE,Insurance
+447,CPB,Food Products
+448,DE,Machinery
+449,EGHT,Software
+450,OTLY,Food Products
+451,XSPA,Diversified Consumer Services
+452,BBWI,Specialty Retail
+453,DWAC,
+454,LRCX,Semiconductors & Semiconductor
+455,XL,Auto Components
+456,PXD,"Oil, Gas & Consumable Fuels"
+457,RBAC,
+458,LC,Consumer Finance
+459,SOLO,Automobiles
+460,CDEV,"Oil, Gas & Consumable Fuels"
+461,MDLZ,Food Products
+462,ASO,Specialty Retail
+463,KDMN,Biotechnology
+464,PRTY,Specialty Retail
+465,ASTS,Diversified Telecommunication
+466,MTTR,Software
+467,QD,Consumer Finance
+468,SPOT,Entertainment
+469,GEVO,"Oil, Gas & Consumable Fuels"
+470,GPRE,"Oil, Gas & Consumable Fuels"
+471,ADMP,Pharmaceuticals
+472,MGI,IT Services
+473,RWT,Mortgage Real Estate Investmen
+474,LU,Consumer Finance
+475,CLX,Household Products
+476,MELI,Internet & Direct Marketing Re
+477,LOTZ,Specialty Retail
+478,PPL,Electric Utilities
+479,MGNI,Media
+480,KKR,Capital Markets
+481,MAT,Leisure Products
+482,ULTA,Specialty Retail
+483,SKIN,Personal Products
+484,SIX,"Hotels, Restaurants & Leisure"
+485,AXSM,Pharmaceuticals
+486,ALTO,"Oil, Gas & Consumable Fuels"
+487,WW,Diversified Consumer Services
+488,MDB,IT Services
+489,ATCO,Marine
+490,OPAD,
+491,FIS,IT Services
+492,AKAM,IT Services
+493,AYX,Software
+494,VLTA,Specialty Retail
+495,FIVN,Software
+496,CHTR,Media
+497,CI,Health Care Providers & Servic
+498,HIPO,Insurance
+499,MQ,IT Services
+500,HEAR,"Technology Hardware, Storage &"
+501,KODK,"Technology Hardware, Storage &"
+502,GDS,IT Services
+503,BTCM,Software
+504,INMD,Health Care Equipment & Suppli
+505,VTNR,"Oil, Gas & Consumable Fuels"
+506,VXRT,Biotechnology
+507,BOX,Software
+508,POWW,Leisure Products
+509,HTA,Equity Real Estate Investment
+510,KMPH,Pharmaceuticals
+511,KNDI,Auto Components
+512,HUN,Chemicals
+513,CMG,"Hotels, Restaurants & Leisure"
+514,CANO,Health Care Providers & Servic
+515,AVYA,Software
+516,LIDR,"Electronic Equipment, Instrume"
+517,FITB,Banks
+518,CVM,Biotechnology
+519,DUK,Electric Utilities
+520,ARVL,Automobiles
+521,ABR,Mortgage Real Estate Investmen
+522,OSTK,Internet & Direct Marketing Re
+523,DVAX,Biotechnology
+524,CL,Household Products
+525,BGCP,Capital Markets
+526,VRTX,Biotechnology
+527,MITT,Mortgage Real Estate Investmen
+528,MIR,
+529,K,Food Products
+530,TGT,Multiline Retail
+531,RIDE,Automobiles
+532,MOS,Chemicals
+533,JBLU,Airlines
+534,IDEX,Machinery
+535,HD,Specialty Retail
+536,AUPH,Biotechnology
+537,CAT,Machinery
+538,MVIS,"Electronic Equipment, Instrume"
+539,AGNC,Mortgage Real Estate Investmen
+540,NMTR,Pharmaceuticals
+541,TMO,Life Sciences Tools & Services
+542,IRBT,Household Durables
+543,CHGG,Diversified Consumer Services
+544,CSIQ,Semiconductors & Semiconductor
+545,XLRN,Biotechnology
+546,HIMS,Health Care Providers & Servic
+547,FTAI,Trading Companies & Distributo
+548,TAP,Beverages
+549,ADT,Commercial Services & Supplies
+550,EBON,"Technology Hardware, Storage &"
+551,ALLY,Consumer Finance
+552,LMT,Aerospace & Defense
+553,NVTA,Biotechnology
+554,ME,Life Sciences Tools & Services
+555,SESN,Biotechnology
+556,BE,Electrical Equipment
+557,RKLB,Aerospace & Defense
+558,SEAH,
+559,MMM,Industrial Conglomerates
+560,GCI,Media
+561,NXPI,Semiconductors & Semiconductor
+562,GWH,Electrical Equipment
+563,GPN,IT Services
+564,OMER,Pharmaceuticals
+565,SO,Electric Utilities
+566,WU,IT Services
+567,NCR,Software
+568,IONQ,
+569,JOBY,Airlines
+570,LNG,"Oil, Gas & Consumable Fuels"
+571,DS,"Hotels, Restaurants & Leisure"
+572,CYH,Health Care Providers & Servic
+573,AVIR,Pharmaceuticals
+574,CWH,Specialty Retail
+575,BK,Capital Markets
+576,ASXC,Health Care Equipment & Suppli
+577,ATNF,Biotechnology
+578,NLOK,Software
+579,LULU,"Textiles, Apparel & Luxury Goo"
+580,PFSI,Thrifts & Mortgage Finance
+581,SFT,Specialty Retail
+582,CTLP,IT Services
+583,PLBY,"Textiles, Apparel & Luxury Goo"
+584,WATT,Electrical Equipment
+585,WOLF,Semiconductors & Semiconductor
+586,REAL,Internet & Direct Marketing Re
+587,ALK,Airlines
+588,WLL,"Oil, Gas & Consumable Fuels"
+589,NNOX,Health Care Equipment & Suppli
+590,NMM,Marine
+591,GTE,"Oil, Gas & Consumable Fuels"
+592,TROX,Chemicals
+593,MCHP,Semiconductors & Semiconductor
+594,BKSY,Professional Services
+595,CLVS,Biotechnology
+596,ADVM,Biotechnology
+597,SBLK,Marine
+598,HYZN,Machinery
+599,SRPT,Biotechnology
+600,DOYU,Entertainment
+601,SKX,"Textiles, Apparel & Luxury Goo"
+602,YETI,Leisure Products
+603,FRO,"Oil, Gas & Consumable Fuels"
+604,ACHR,
+605,PBI,Commercial Services & Supplies
+606,CLMT,"Oil, Gas & Consumable Fuels"
+607,WM,Commercial Services & Supplies
+608,EMR,Electrical Equipment
+609,BGS,Food Products
+610,CFG,Banks
+611,ESGC,Entertainment
+612,APRN,Food & Staples Retailing
+613,AVDL,Pharmaceuticals
+614,VFC,"Textiles, Apparel & Luxury Goo"
+615,ICE,Capital Markets
+616,NKTR,Pharmaceuticals
+617,CROX,"Textiles, Apparel & Luxury Goo"
+618,INDI,Semiconductors & Semiconductor
+619,NRG,Electric Utilities
+620,GSL,Marine
+621,ADSK,Software
+622,UXIN,Internet & Direct Marketing Re
+623,RDFN,Real Estate Management & Devel
+624,SYY,Food & Staples Retailing
+625,KMB,Household Products
+626,GIS,Food Products
+627,CARR,Building Products
+628,NLS,Leisure Products
+629,ML,Consumer Finance
+630,EW,Health Care Equipment & Suppli
+631,CTVA,Chemicals
+632,RSI,"Hotels, Restaurants & Leisure"
+633,SWBI,Leisure Products
+634,ALB,Chemicals
+635,VTR,Equity Real Estate Investment
+636,ALIT,Professional Services
+637,LLNW,IT Services
+638,COOP,Thrifts & Mortgage Finance
+639,SLQT,Insurance
+640,NOV,Energy Equipment & Services
+641,ABCL,Life Sciences Tools & Services
+642,D,Multi-Utilities
+643,HES,"Oil, Gas & Consumable Fuels"
+644,ATHX,Biotechnology
+645,CRK,"Oil, Gas & Consumable Fuels"
+646,HBI,"Textiles, Apparel & Luxury Goo"
+647,ABUS,Biotechnology
+648,IAA,Commercial Services & Supplies
+649,LICY,Commercial Services & Supplies
+650,LYB,Chemicals
+651,IPOD,
+652,STWD,Mortgage Real Estate Investmen
+653,CIEN,Communications Equipment
+654,OKE,"Oil, Gas & Consumable Fuels"
+655,MPLX,"Oil, Gas & Consumable Fuels"
+656,DGLY,"Electronic Equipment, Instrume"
+657,CTXR,Pharmaceuticals
+658,RNW,Independent Power and Renewabl
+659,EXAS,Biotechnology
+660,NBEV,Beverages
+661,IMGN,Biotechnology
+662,VIEW,Building Products
+663,AMT,Equity Real Estate Investment
+664,MBI,Insurance
+665,SLCA,Energy Equipment & Services
+666,GNRC,Electrical Equipment
+667,MPW,Equity Real Estate Investment
+668,FVRR,Internet & Direct Marketing Re
+669,HBAN,Banks
+670,DD,Chemicals
+671,SSYS,"Technology Hardware, Storage &"
+672,CPE,"Oil, Gas & Consumable Fuels"
+673,ZEV,Machinery
+674,SYF,Consumer Finance
+675,SPR,Aerospace & Defense
+676,PLAY,"Hotels, Restaurants & Leisure"
+677,CF,Chemicals
+678,XRX,"Technology Hardware, Storage &"
+679,ASAN,Software
+680,ZIOP,Biotechnology
+681,RDW,
+682,TXMD,Pharmaceuticals
+683,SEDG,Semiconductors & Semiconductor
+684,GES,Specialty Retail
+685,AM,"Oil, Gas & Consumable Fuels"
+686,EDIT,Biotechnology
+687,GERN,Biotechnology
+688,BG,Food Products
+689,GDRX,Health Care Technology
+690,BLDE,Airlines
+691,LEVI,"Textiles, Apparel & Luxury Goo"
+692,OUST,"Electronic Equipment, Instrume"
+693,XPO,Road & Rail
+694,WIMI,Media
+695,TXRH,"Hotels, Restaurants & Leisure"
+696,BKNG,"Hotels, Restaurants & Leisure"
+697,XXII,Tobacco
+698,OCUL,Pharmaceuticals
+699,MNST,Beverages
+700,ROST,Specialty Retail
+701,IOVA,Biotechnology
+702,DRI,"Hotels, Restaurants & Leisure"
+703,IVZ,Capital Markets
+704,GOED,Internet & Direct Marketing Re
+705,THC,Health Care Providers & Servic
+706,ALDX,Biotechnology
+707,CTSH,IT Services
+708,VEEV,Health Care Technology
+709,FOUR,IT Services
+710,NOC,Aerospace & Defense
+711,CRTD,Interactive Media & Services
+712,SPGI,Capital Markets
+713,WTI,"Oil, Gas & Consumable Fuels"
+714,VG,Software
+715,NVCR,Health Care Equipment & Suppli
+716,FUV,Automobiles
+717,RGS,Diversified Consumer Services
+718,OZON,Internet & Direct Marketing Re
+719,SHW,Chemicals
+720,AXL,Auto Components
+721,UP,Airlines
+722,LILM,Aerospace & Defense
+723,LPX,Paper & Forest Products
+724,ACAD,Biotechnology
+725,RBOT,Health Care Equipment & Suppli
+726,SFM,Food & Staples Retailing
+727,CHS,Specialty Retail
+728,DPW,Electrical Equipment
+729,LIN,Chemicals
+730,PRGO,Pharmaceuticals
+731,NWL,Household Durables
+732,BGFV,Specialty Retail
+733,ACI,Food & Staples Retailing
+734,COMP,Real Estate Management & Devel
+735,CTRM,Marine
+736,HUM,Health Care Providers & Servic
+737,CSLT,Health Care Technology
+738,DFS,Consumer Finance
+739,DXC,IT Services
+740,NYCB,Thrifts & Mortgage Finance
+741,QURE,Biotechnology
+742,CPLG,Equity Real Estate Investment
+743,BLK,Capital Markets
+744,WOOF,Specialty Retail
+745,NRDY,Diversified Consumer Services
+746,DNMR,Chemicals
+747,JCI,Building Products
+748,AER,Trading Companies & Distributo
+749,O,Equity Real Estate Investment
+750,MIC,Gas Utilities
+751,CIM,Mortgage Real Estate Investmen
+752,POSH,Internet & Direct Marketing Re
+753,TTOO,Biotechnology
+754,DXCM,Health Care Equipment & Suppli
+755,NGL,"Oil, Gas & Consumable Fuels"
+756,PGEN,Biotechnology
+757,TRTN,Trading Companies & Distributo
+758,KDP,Beverages
+759,BXMT,Mortgage Real Estate Investmen
+760,RNG,Software
+761,TDC,Software
+762,NOG,"Oil, Gas & Consumable Fuels"
+763,ARRY,Electrical Equipment
+764,DCRC,
+765,YUMC,"Hotels, Restaurants & Leisure"
+766,CYRX,Health Care Equipment & Suppli
+767,ORI,Insurance
+768,SOL,Construction & Engineering
+769,BZUN,Internet & Direct Marketing Re
+770,LTHM,Chemicals
+771,HLF,Personal Products
+772,RH,Specialty Retail
+773,INTU,Software
+774,TX,Metals & Mining
+775,VIRT,Capital Markets
+776,IIVI,"Electronic Equipment, Instrume"
+777,VBIV,Biotechnology
+778,BMRN,Biotechnology
+779,DG,Multiline Retail
+780,PPC,Food Products
+781,JNPR,Communications Equipment
+782,KC,IT Services
+783,ESTC,Software
+784,TPR,"Textiles, Apparel & Luxury Goo"
+785,ZG,Real Estate Management & Devel
+786,SMSI,Software
+787,UPH,Health Care Technology
+788,CLVR,Pharmaceuticals
+789,ILMN,Life Sciences Tools & Services
+790,PSEC,Capital Markets
+791,HST,Equity Real Estate Investment
+792,RLGY,Real Estate Management & Devel
+793,IBRX,Biotechnology
+794,CTXS,Software
+795,PAYX,IT Services
+796,HRL,Food Products
+797,PCT,Chemicals
+798,PAYS,IT Services
+799,HA,Airlines
+800,TOL,Household Durables
+801,XERS,Pharmaceuticals
+802,SHAK,"Hotels, Restaurants & Leisure"
+803,INCY,Biotechnology
+804,REE,Auto Components
+805,MAXR,Aerospace & Defense
+806,GNOG,"Hotels, Restaurants & Leisure"
+807,ADMA,Biotechnology
+808,WMC,Mortgage Real Estate Investmen
+809,REGN,Biotechnology
+810,CVAC,Biotechnology
+811,NRXP,Pharmaceuticals
+812,ZUO,Software
+813,RFP,Paper & Forest Products
+814,KOPN,Semiconductors & Semiconductor
+815,EVH,Health Care Technology
+816,LAUR,Diversified Consumer Services
+817,HYFM,Machinery
+818,SGMO,Biotechnology
+819,PLD,Equity Real Estate Investment
+820,MUDS,
+821,CAG,Food Products
+822,AVPT,Software
+823,ADP,IT Services
+824,DHT,"Oil, Gas & Consumable Fuels"
+825,IRM,Equity Real Estate Investment
+826,EXPR,Specialty Retail
+827,UPWK,Professional Services
+828,ARLP,"Oil, Gas & Consumable Fuels"
+829,DPZ,"Hotels, Restaurants & Leisure"
+830,LNC,Insurance
+831,PETS,Internet & Direct Marketing Re
+832,KTOS,Aerospace & Defense
+833,CSPR,Household Durables
+834,AMBA,Semiconductors & Semiconductor
+835,BFLY,Health Care Equipment & Suppli
+836,BIGC,IT Services
+837,SD,"Oil, Gas & Consumable Fuels"
+838,BYSI,Biotechnology
+839,ARCC,Capital Markets
+840,UNM,Insurance
+841,PRCH,Internet & Direct Marketing Re
+842,PLAN,Software
+843,PAYO,IT Services
+844,APP,Software
+845,HZNP,Biotechnology
+846,ORGN,Chemicals
+847,HWM,Aerospace & Defense
+848,CLR,"Oil, Gas & Consumable Fuels"
+849,PGR,Insurance
+850,ALL,Insurance
+851,ZI,Interactive Media & Services
+852,URI,Trading Companies & Distributo
+853,SI,Banks
+854,DOCN,IT Services
+855,INVZ,"Electronic Equipment, Instrume"
+856,CHRW,Air Freight & Logistics
+857,AEHR,Semiconductors & Semiconductor
+858,SHPW,
+859,YUM,"Hotels, Restaurants & Leisure"
+860,STZ,Beverages
+861,CME,Capital Markets
+862,FREY,Electrical Equipment
+863,ANF,Specialty Retail
+864,JKS,Semiconductors & Semiconductor
+865,MMP,"Oil, Gas & Consumable Fuels"
+866,UNFI,Food & Staples Retailing
+867,FIGS,Health Care Equipment & Suppli
+868,MAPS,Software
+869,ARMK,"Hotels, Restaurants & Leisure"
+870,LPCN,Pharmaceuticals
+871,CBOE,Capital Markets
+872,PAVM,Health Care Equipment & Suppli
+873,CBRL,"Hotels, Restaurants & Leisure"
+874,FTNT,Software
+875,STT,Capital Markets
+876,CCI,Equity Real Estate Investment
+877,HCA,Health Care Providers & Servic
+878,BAX,Health Care Equipment & Suppli
+879,MPLN,Health Care Technology
+880,NTAP,"Technology Hardware, Storage &"
+881,OLN,Chemicals
+882,MX,Semiconductors & Semiconductor
+883,NWSA,Media
+884,VRRM,IT Services
+885,OHI,Equity Real Estate Investment
+886,DOCS,Health Care Technology
+887,ONEM,Health Care Providers & Servic
+888,AAWW,Air Freight & Logistics
+889,OWL,Capital Markets
+890,BMBL,Interactive Media & Services
+891,ED,Multi-Utilities
+892,MTDR,"Oil, Gas & Consumable Fuels"
+893,FOXA,Media
+894,SGMS,"Hotels, Restaurants & Leisure"
+895,DQ,Semiconductors & Semiconductor
+896,GLBS,Marine
+897,LITE,Communications Equipment
+898,ETRN,"Oil, Gas & Consumable Fuels"
+899,STAR,Equity Real Estate Investment
+900,ADS,IT Services
+901,RRD,Commercial Services & Supplies
+902,EL,Personal Products
+903,APLS,Biotechnology
+904,ARR,Mortgage Real Estate Investmen
+905,AMPY,"Oil, Gas & Consumable Fuels"
+906,CONE,Equity Real Estate Investment
+907,BLUE,Biotechnology
+908,EXPI,Real Estate Management & Devel
+909,WSM,Specialty Retail
+910,XOS,Machinery
+911,ANTM,Health Care Providers & Servic
+912,TGH,Trading Companies & Distributo
+913,SEAS,"Hotels, Restaurants & Leisure"
+914,AMPE,Pharmaceuticals
+915,SDGR,Health Care Technology
+916,SHCR,Health Care Technology
+917,RFL,Real Estate Management & Devel
+918,FHN,Banks
+919,VERU,Personal Products
+920,SAM,Beverages
+921,NEWR,Software
+922,KLAC,Semiconductors & Semiconductor
+923,QRVO,Semiconductors & Semiconductor
+924,KPTI,Biotechnology
+925,BEN,Capital Markets
+926,APT,Building Products
+927,BLDR,Building Products
+928,GOCO,Insurance
+929,ONDS,Communications Equipment
+930,AXTA,Chemicals
+931,CNX,"Oil, Gas & Consumable Fuels"
+932,IBIO,Biotechnology
+933,CC,Chemicals
+934,PHM,Household Durables
+935,IMAX,Entertainment
+936,ADM,Food Products
+937,AEP,Electric Utilities
+938,TPGY,
+939,ATIP,Health Care Providers & Servic
+940,WRAP,"Electronic Equipment, Instrume"
+941,ITP,Paper & Forest Products
+942,ASPN,Energy Equipment & Services
+943,ESI,Chemicals
+944,AIV,Equity Real Estate Investment
+945,DNUT,"Hotels, Restaurants & Leisure"
+946,DGX,Health Care Providers & Servic
+947,CRBP,Biotechnology
+948,EAT,"Hotels, Restaurants & Leisure"
+949,PTGX,Biotechnology
+950,EXEL,Biotechnology
+951,GENI,Interactive Media & Services
+952,TUP,Household Durables
+953,BCLI,Biotechnology
+954,AAP,Specialty Retail
+955,KIRK,Specialty Retail
+956,PLX,Biotechnology
+957,CENX,Metals & Mining
+958,RXT,IT Services
+959,FIVE,Specialty Retail
+960,BBIO,Biotechnology
+961,AVTR,Life Sciences Tools & Services
+962,APD,Chemicals
+963,RMBS,Semiconductors & Semiconductor
+964,ISEE,Biotechnology
+965,FAST,Trading Companies & Distributo
+966,PD,Software
+967,CURI,Entertainment
+968,LW,Food Products
+969,PAYA,IT Services
+970,VISL,Communications Equipment
+971,UAMY,Metals & Mining
+972,FUN,"Hotels, Restaurants & Leisure"
+973,NSC,Road & Rail
+974,RKLY,Semiconductors & Semiconductor
+975,TWOU,Diversified Consumer Services
+976,SNCR,Software
+977,PRPL,Household Durables
+978,KOS,"Oil, Gas & Consumable Fuels"
+979,BLL,Containers & Packaging
+980,CERN,Health Care Technology
+981,DSX,Marine
+982,MCK,Health Care Providers & Servic
+983,ETWO,Software
+984,AVXL,Biotechnology
+985,ROVR,Diversified Consumer Services
+986,TER,Semiconductors & Semiconductor
+987,WHR,Household Durables
+988,TEN,Auto Components
+989,OSCR,Insurance
+990,MYPS,Entertainment
+991,BDX,Health Care Equipment & Suppli
+992,BROS,"Hotels, Restaurants & Leisure"
+993,PUBM,Media
+994,GBT,Biotechnology
+995,RDWR,Communications Equipment
+996,UAVS,Machinery
+997,HP,Energy Equipment & Services
+998,WIX,IT Services
+999,SCCO,Metals & Mining
+1000,SEEL,Pharmaceuticals
+1001,PERI,Media
+1002,OEG,Construction & Engineering
+1003,WELL,Equity Real Estate Investment
+1004,GSKY,IT Services
+1005,INFN,Communications Equipment
+1006,FLEX,"Electronic Equipment, Instrume"
+1007,S,Software
+1008,CMI,Machinery
+1009,ALGN,Health Care Equipment & Suppli
+1010,WPC,Equity Real Estate Investment
+1011,SSSS,Capital Markets
+1012,FLXN,Biotechnology
+1013,CELU,Biotechnology
+1014,PFGC,Food & Staples Retailing
+1015,CMRE,Marine
+1016,COUR,Diversified Consumer Services
+1017,CLDX,Biotechnology
+1018,TNK,"Oil, Gas & Consumable Fuels"
+1019,MCF,"Oil, Gas & Consumable Fuels"
+1020,ARWR,Biotechnology
+1021,ACEV,
+1022,NDAQ,Capital Markets
+1023,CHNG,Health Care Technology
+1024,CG,Capital Markets
+1025,APPN,Software
+1026,ALKS,Biotechnology
+1027,FTI,Energy Equipment & Services
+1028,GD,Aerospace & Defense
+1029,VICI,Equity Real Estate Investment
+1030,POST,Food Products
+1031,JAZZ,Pharmaceuticals
+1032,QFIN,Consumer Finance
+1033,HRB,Diversified Consumer Services
+1034,BDSI,Pharmaceuticals
+1035,CB,Insurance
+1036,KMX,Specialty Retail
+1037,KNX,Road & Rail
+1038,HAS,Leisure Products
+1039,CNHI,Machinery
+1040,SB,Marine
+1041,ENG,Energy Equipment & Services
+1042,PACB,Life Sciences Tools & Services
+1043,ICPT,Biotechnology
+1044,PARR,"Oil, Gas & Consumable Fuels"
+1045,ZTO,Air Freight & Logistics
+1046,WB,Interactive Media & Services
+1047,PLNT,"Hotels, Restaurants & Leisure"
+1048,MUR,"Oil, Gas & Consumable Fuels"
+1049,VKTX,Biotechnology
+1050,USFD,Food & Staples Retailing
+1051,BEST,Air Freight & Logistics
+1052,CELH,Beverages
+1053,AJRD,Aerospace & Defense
+1054,CDNS,Software
+1055,RACE,Automobiles
+1056,ELAN,Pharmaceuticals
+1057,MRIN,Software
+1058,VSTO,Leisure Products
+1059,VHC,Software
+1060,VLD,Machinery
+1061,IBKR,Capital Markets
+1062,CARA,Pharmaceuticals
+1063,QTNT,Health Care Equipment & Suppli
+1064,SMFR,Health Care Technology
+1065,CRVS,Biotechnology
+1066,HFC,"Oil, Gas & Consumable Fuels"
+1067,CBRE,Real Estate Management & Devel
+1068,LH,Health Care Providers & Servic
+1069,CBAT,Electrical Equipment
+1070,ETN,Electrical Equipment
+1071,TWNK,Food Products
+1072,AREC,"Oil, Gas & Consumable Fuels"
+1073,ENVX,Electrical Equipment
+1074,HYRE,Road & Rail
+1075,MAXN,Semiconductors & Semiconductor
+1076,KVSB,
+1077,RIGL,Biotechnology
+1078,AYRO,Automobiles
+1079,QGEN,Life Sciences Tools & Services
+1080,A,Life Sciences Tools & Services
+1081,AQMS,Commercial Services & Supplies
+1082,GAN,"Hotels, Restaurants & Leisure"
+1083,OTIS,Machinery
+1084,VMEO,Interactive Media & Services
+1085,YEXT,Software
+1086,SM,"Oil, Gas & Consumable Fuels"
+1087,KERN,Professional Services
+1088,OMF,Consumer Finance
+1089,XM,Software
+1090,TNL,"Hotels, Restaurants & Leisure"
+1091,EFX,Professional Services
+1092,APTV,Auto Components
+1093,TTI,Energy Equipment & Services
+1094,IMMR,"Technology Hardware, Storage &"
+1095,NCTY,Entertainment
+1096,CMRX,Biotechnology
+1097,AKBA,Biotechnology
+1098,MANU,Entertainment
+1099,NCMI,Media
+1100,SUNW,Electrical Equipment
+1101,CRTO,Media
+1102,HUBS,Software
+1103,PING,Software
+1104,HOLX,Health Care Equipment & Suppli
+1105,ALTU,
+1106,DSKE,Road & Rail
+1107,LESL,Specialty Retail
+1108,AON,Insurance
+1109,CNR,Building Products
+1110,HIG,Insurance
+1111,TSP,Road & Rail
+1112,TRVN,Biotechnology
+1113,IMVT,Biotechnology
+1114,LX,Consumer Finance
+1115,BILL,Software
+1116,HGEN,Biotechnology
+1117,ACM,Construction & Engineering
+1118,TGNA,Media
+1119,SWCH,IT Services
+1120,PWR,Construction & Engineering
+1121,CLSD,Pharmaceuticals
+1122,ARDX,Biotechnology
+1123,ENLC,"Oil, Gas & Consumable Fuels"
+1124,FBRX,Biotechnology
+1125,PAGP,"Oil, Gas & Consumable Fuels"
+1126,OSH,Health Care Providers & Servic
+1127,MKFG,Machinery
+1128,DAC,Marine
+1129,CODX,Health Care Equipment & Suppli
+1130,RVLV,Internet & Direct Marketing Re
+1131,QDEL,Health Care Equipment & Suppli
+1132,PMT,Mortgage Real Estate Investmen
+1133,SAGE,Biotechnology
+1134,AQB,Biotechnology
+1135,RADA,Aerospace & Defense
+1136,DBI,Specialty Retail
+1137,GDOT,Consumer Finance
+1138,RL,"Textiles, Apparel & Luxury Goo"
+1139,SUMO,Software
+1140,BYD,"Hotels, Restaurants & Leisure"
+1141,ESRT,Equity Real Estate Investment
+1142,KRYS,Biotechnology
+1143,SOHU,Interactive Media & Services
+1144,IR,Machinery
+1145,ATI,Metals & Mining
+1146,ALLT,Software
+1147,INFI,Biotechnology
+1148,VRAY,Health Care Equipment & Suppli
+1149,RWLK,Health Care Equipment & Suppli
+1150,CNDT,IT Services
+1151,IO,Energy Equipment & Services
+1152,LL,Specialty Retail
+1153,DOLE,Food Products
+1154,SYK,Health Care Equipment & Suppli
+1155,EHC,Health Care Providers & Servic
+1156,SRAX,Software
+1157,BFI,"Hotels, Restaurants & Leisure"
+1158,ZTS,Pharmaceuticals
+1159,CCV,
+1160,GNK,Marine
+1161,ELMS,Automobiles
+1162,OMI,Health Care Providers & Servic
+1163,PCAR,Machinery
+1164,CALA,Biotechnology
+1165,EB,Interactive Media & Services
+1166,WGO,Automobiles
+1167,ADNT,Auto Components
+1168,VZIO,Household Durables
+1169,ZGNX,Pharmaceuticals
+1170,VNO,Equity Real Estate Investment
+1171,ZY,Chemicals
+1172,WWR,Electrical Equipment
+1173,CCK,Containers & Packaging
+1174,ACIW,Software
+1175,SUNL,Consumer Finance
+1176,PK,Equity Real Estate Investment
+1177,CRNT,Communications Equipment
+1178,YELL,Road & Rail
+1179,ATOM,Semiconductors & Semiconductor
+1180,WEBR,Household Durables
+1181,URBN,Specialty Retail
+1182,EOSE,Electrical Equipment
+1183,RVNC,Pharmaceuticals
+1184,RAMP,IT Services
+1185,NOVA,Independent Power and Renewabl
+1186,OGN,Pharmaceuticals
+1187,ESPR,Pharmaceuticals
+1188,IONS,Biotechnology
+1189,ATAI,Pharmaceuticals
+1190,THO,Automobiles
+1191,EVRI,"Hotels, Restaurants & Leisure"
+1192,MAS,Building Products
+1193,ALT,Biotechnology
+1194,CERS,Health Care Equipment & Suppli

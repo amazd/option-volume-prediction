@@ -10,7 +10,7 @@ def get_shift_amount():
 
     action = questionary.select(
         "How many days of return should we look forward to?",
-        choices=["3", "4", "5"],
+        choices=["1", "5", "10"],
     ).ask()
     return action
 

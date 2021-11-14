@@ -279,24 +279,19 @@ def run():
 
     good_signal_returns_list_df = pd.DataFrame(good_signal_returns_list, columns=['Beta-Adjusted Outperformance Returns'])
     print(f"Signal Triggered {good_signal_returns_list_df.describe()}") 
-    
-    fig, ax = plt.subplots(figsize =(20,14))
-    ax.hist(good_signal_returns_list_df, bins = 700)
-    ax.set_xlabel("Returns")
-    ax.set_xlim([-1,2])
-    ax.set_ylabel("Frequency")
-    plt.title("Frequency of Beta-Adjusted Outperformance Returns in Signalled Dates")
-    plt.show()
-
+        
     no_signal_returns_list_df = pd.DataFrame(no_signal_returns_list)
     no_signal_returns_list_df.columns = ["Beta-Adjusted Outperformance Returns"]
     print(f"Signal Not Triggered {no_signal_returns_list_df.describe()}") 
-    fig, ax1 = plt.subplots(figsize =(20,14))
-    ax1.hist(no_signal_returns_list_df, bins = 700)
-    ax1.set_xlabel("Returns")
-    ax1.set_xlim([-1,2])
-    ax1.set_ylabel("Frequency")
-    plt.title("Frequency of Beta-Adjusted Outperformance Returns in Control Dates")
+
+    plt.figure(figsize=(20,14))
+    plt.hist(good_signal_returns_list_df, density=True, bins=700, alpha=0.5, label="Good Signal")
+    plt.hist(no_signal_returns_list_df, density=True, bins=1000, alpha=0.5, label="No Signal")
+    plt.xlabel("Returns",  size=14)
+    plt.ylabel("Frequency", size=14)
+    plt.xlim([-1,2])
+    plt.legend()
+    plt.title("Frequency of Beta-Adjusted Outperformance Returns in Signalled and Control Dates", fontsize=20)
     plt.show()
     
     good_mean = np.mean(good_signal_returns_list)

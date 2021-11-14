@@ -5,7 +5,7 @@ import numpy as np
 from scipy.stats import ttest_ind
 from pathlib import Path
 import matplotlib.pyplot as plt
-import hvplot.pandas 
+
 
 ALL_SECTOR_STRING = "All Sectors"
 
@@ -20,13 +20,13 @@ def get_user_input():
     # nDay Return
     shift = questionary.select(
         "What period of returns would you like to use after the signal is triggered (# of days)?",
-        choices=["1", "5", "10"],
+        choices=["1", "3", "5", "10"],
     ).ask()
 
     # Call/Put Ratio Threshold
     call_put_ratio_threshold = questionary.select(
         "What call/put ratio threshold would you like to use for the signal to be triggered?",
-        choices=["3", "2", "1"],
+        choices=["1", "2", "3"],
     ).ask()
 
     # Short interest threshold
@@ -98,6 +98,16 @@ def run():
         all_sectors
     )
 
+    #Intro
+    print("""Welcome! This application analyzes whether outsized call option volumes can be a leading indicator for equity rallies. 
+    You will be prompted to select parameters for:
+    1. Number of days used to calculate returns following a positive signal
+    2. Ratio of calls vs puts as a signal for unusual call activity
+    3. Percent short interest threshold as a signal for a heavily shorted stock that could see a short squeeze
+    4. Ratio of call volume vs trailing average call volume as a signal for unusual call activity
+    5. Sector filter to see results only within a specific sector
+    The application performs a t-test on the daily returns of >1,100 stocks from 7/1/20 to 11/9/21 to see if the returns, on days that fall within the parameters, 
+    exhibit greater positive returns than other days.""")
     # Get user input
     [shift, call_put_ratio_threshold, short_interest_threshold, adv_multiple, filter_input_sector] = get_user_input()
 
@@ -210,7 +220,7 @@ def run():
     good_signal_returns = {}
     no_signal_returns = {}
 
-    print(f"Filtering down signal by beta adjusted outperf (this part will take a min)...")
+    print(f"Partioning returns (this part will take a min)...")
 
     for ticker in ticker_names:
         good_signal_returns[ticker] = []
@@ -269,15 +279,28 @@ def run():
 
     good_signal_returns_list_df = pd.DataFrame(good_signal_returns_list, columns=['Beta-Adjusted Outperformance Returns'])
     print(f"Signal Triggered {good_signal_returns_list_df.describe()}") 
-    #good_signal_returns_list_df.hvplot.hist(bins=700, xlim=(-1,2), title="Frequency of Outperformance Returns in Signalled Dates")
+    
+    fig, ax = plt.subplots(figsize =(20,14))
+    ax.hist(good_signal_returns_list_df, bins = 700)
+    ax.set_xlabel("Returns")
+    ax.set_xlim([-1,2])
+    ax.set_ylabel("Frequency")
+    plt.title("Frequency of Beta-Adjusted Outperformance Returns in Signalled Dates")
+    plt.show()
 
     no_signal_returns_list_df = pd.DataFrame(no_signal_returns_list)
-    no_signal_returns_list_df.columns = ["Beta-Adjusted Outperformance Returns (for July 2020 to Nov 2021)"]
+    no_signal_returns_list_df.columns = ["Beta-Adjusted Outperformance Returns"]
     print(f"Signal Not Triggered {no_signal_returns_list_df.describe()}") 
-    #no_signal_returns_list_df.hvplot.hist(bins=700, xlim=(-1,2), title="Frequency of Outperformance Returns in Control Dates")
-
+    fig, ax1 = plt.subplots(figsize =(20,14))
+    ax1.hist(no_signal_returns_list_df, bins = 700)
+    ax1.set_xlabel("Returns")
+    ax1.set_xlim([-1,2])
+    ax1.set_ylabel("Frequency")
+    plt.title("Frequency of Beta-Adjusted Outperformance Returns in Control Dates")
+    plt.show()
+    
     good_mean = np.mean(good_signal_returns_list)
-    bad_mean = np.mean(no_signal_returns_gross_list)
+    bad_mean = np.mean(no_signal_returns_list)
 
     #T-test
     tt, pvalue = ttest_ind(a=good_signal_returns_list, b=no_signal_returns_list, equal_var=True)

@@ -32,7 +32,6 @@ def data_bdh_list(tickers_path, save_path, start_date, end_date, bbg_field):
     con = pdblp.BCon(debug=False, port=8194, timeout=5000000)    
     con.start()
     
-    
     #pull tickers and store in a list
     with open(tickers_path, "r") as csvfile:
         ticker_list = []

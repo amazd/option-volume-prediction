@@ -5,33 +5,34 @@ import numpy as np
 from scipy.stats import ttest_ind
 from pathlib import Path
 import matplotlib.pyplot as plt
+import hvplot.pandas 
 
 ALL_SECTOR_STRING = "All Sectors"
 
 def get_user_input():
 
+    # Multiple of Avg Daily Vol
+    adv_multiple = questionary.select(
+        "What multiple of trailing call options volume do you want to use for a call option volume trigger?",
+        choices=["2", "3", "4"],
+    ).ask()
+
     # nDay Return
     shift = questionary.select(
-        "How many days of return should we look forward to?",
-        choices=["5", "10", "1"],
+        "What period of returns would you like to use after the signal is triggered (# of days)?",
+        choices=["1", "5", "10"],
     ).ask()
 
     # Call/Put Ratio Threshold
     call_put_ratio_threshold = questionary.select(
-        "Which call/put ratio?",
+        "What call/put ratio threshold would you like to use for the signal to be triggered?",
         choices=["3", "2", "1"],
     ).ask()
 
-    # Short intereset threshold
+    # Short interest threshold
     short_interest_threshold = questionary.select(
-        "Which percentage of short interest threshold?",
+        "What short interest percentage threshold do you want to filter for?",
         choices=["5", "10", "20"],
-    ).ask()
-
-    # Multiple of Avg Dailiy Vol
-    adv_multiple = questionary.select(
-        "Which multiple of avg daily volume should we use (?",
-        choices=["4", "3", "2"],
     ).ask()
 
     all_sectors_df = pd.read_csv(Path("./data/Sectors_20211102.csv"))
@@ -267,20 +268,23 @@ def run():
     good_signal_returns_list = [x for x in good_signal_returns_list if np.isnan(x) == False]
 
     good_signal_returns_list_df = pd.DataFrame(good_signal_returns_list, columns=['Beta-Adjusted Outperformance Returns'])
-    print(good_signal_returns_list_df.describe()) 
+    print(f"Signal Triggered {good_signal_returns_list_df.describe()}") 
     #good_signal_returns_list_df.hvplot.hist(bins=700, xlim=(-1,2), title="Frequency of Outperformance Returns in Signalled Dates")
 
     no_signal_returns_list_df = pd.DataFrame(no_signal_returns_list)
     no_signal_returns_list_df.columns = ["Beta-Adjusted Outperformance Returns (for July 2020 to Nov 2021)"]
+    print(f"Signal Not Triggered {no_signal_returns_list_df.describe()}") 
     #no_signal_returns_list_df.hvplot.hist(bins=700, xlim=(-1,2), title="Frequency of Outperformance Returns in Control Dates")
 
     good_mean = np.mean(good_signal_returns_list)
+    bad_mean = np.mean(no_signal_returns_gross_list)
 
     #T-test
     tt, pvalue = ttest_ind(a=good_signal_returns_list, b=no_signal_returns_list, equal_var=True)
     print(f"The T-test T-stat is {tt :.2f}")
     print(f"The T-test p-value is {100*pvalue :.2f}%")
     print(f"The mean return of our signal is {100*good_mean :.2f}%")
+    print(f"The mean return of no signal is {100*bad_mean :.2f}%")
 
 # Entry point for the application. Initiates the run() function.
 if __name__ == "__main__":

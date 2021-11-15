@@ -1,9 +1,9 @@
-# **Analyzing the Impact of Unusual Call Option Volumes on Underlying Stock Price Returns**
+## **Analyzing the Impact of Unusual Call Option Volumes on Underlying Stock Price Returns**
 
-## Project Overview
 
-### Objective:
-Identify statistically impactful patterns in unusual option volumes, short interest and sector the call/put ratio as predictive indicators for movement in underlying stock prices.  As a first step in our exploratory data analysis we developed a python-based application to manage filtering and analytical routines for 1200+ tickers.  The key features of the application are the statistical output tables and data visualizations.  The app is designed to facilitate randomized hypothesis testing using this combination of objective (visual), and quantitative (statistical) outputs.  
+### Project Overview:
+
+Identify statistically impactful patterns in unusual option volumes, short interest, call/put ratio, and sector as predictive indicators for movement in underlying stock prices.  As a first step in our exploratory data analysis we developed a python-based application to manage filtering and analytical routines for 1100+ tickers.  The key user features of the application are the filters, statistical output tables and data visualizations.  The app is designed to facilitate randomized hypothesis testing using this combination of objective (visual), and quantitative (statistical) outputs.  
 
 ---
 
@@ -38,10 +38,12 @@ Before running the app, ensure that the libraries above are imported, then insta
 
   - python app.py
 
-When app.py is opened, the following welcome screen will appear.
+When app.py is opened, the following welcome screen will appear:
+
 ![AppIntro](Images/AppIntro.PNG)
 
-A series of prompts will need to be populated with numerical values.
+A series of questionary prompts will need to be populated with numerical values:
+
 ![AppQuestions](Images/AppQuestions.PNG)
 
 
@@ -63,12 +65,10 @@ A series of prompts will need to be populated with numerical values.
   - Using heavily shorted names as a filter, our analysis indicated significant results.  
   - The t-test showed that increased call option volume was a leading indicator for positive stock returns.  
   - Summary data indicates that the mean for the "Signal" returns is clearly higher than the mean for the "No Signal" population.  
-  - The T-Stat is over 4 and the probabilty that the result is signfiicant is almost 100% (p value close to 0).  Here is a summary of this set of results:
+  - The T-Stat is over 4 and the probabilty that the result is signfiicant is almost 100% (p value close to 0).
 
 ![Return Summary Stats](Images/ReturnSummaryStats.PNG)
 
-The histogram of results looked like this:
+  - Visual affirmation of the data in the histogram below clearly shows a positive skewness of returns for the "Signal" population with a long right-tailed distribution.
 
 ![Histogram of Returns](Images/Histogram.PNG)
-
-Our results are statistically significant, and the histogram above clearly shows a positive skewness of returns for the "Signal" population with a long right-tailed distribution.

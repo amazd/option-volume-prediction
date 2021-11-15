@@ -3,10 +3,10 @@
 ## Product:
 Python-based application designed to identify the impact of unusual call option volumes on subsequent price returns in the underlying stock.  The application features flexible filtering and processing functionality that users can manipulate for various use cases in addition to our own.  
 
-
-## Object:
+## Objective:
 Identify statistically impactful patterns in unusual option volumes, short interest and sector the call/put ratio as predictive indicators for movement in underlying stock prices.
 
+---
 
 ## Data:
 

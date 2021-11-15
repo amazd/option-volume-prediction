@@ -37,14 +37,13 @@ Before running the app, ensure that the libraries above are imported, then insta
 
 ## Usage: To use the application, clone the repository and run **app.py** with:
 
-python app.py
+  - python app.py
 
 When app.py is opened, the following welcome screen will appear.
 ![AppIntro](Images/AppIntro.PNG)
 
 A series of prompts will need to be populated with numerical values.
 ![AppQuestions](Images/AppQuestions.PNG)
-
 
 
 ## Data Filtering & Analytical Criteria:

@@ -4,7 +4,7 @@
 Python-based application designed to identify the impact of unusual call option volumes on subsequent price returns in the underlying stock.  The application features flexible filtering and processing functionality that users can manipulate for various use cases in addition to our own.  
 
 ## Objective:
-Identify statistically impactful patterns in unusual option volumes, short interest and sector the call/put ratio as predictive indicators for movement in underlying stock prices.
+Identify statistically impactful patterns in unusual option volumes, short interest and sector the call/put ratio as predictive indicators for movement in underlying stock prices.  As a first step in our exploratory data analysis we developed a python-based application to manage filtering and analytical routines for 1200+ tickers.  The key features of the application are the statistical output tables and data visualizations.  The application code is written flexibly, allowing for next generation improvements and for other analytical objectives.
 
 ---
 

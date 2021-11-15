@@ -43,6 +43,6 @@ That being said, we found some intersting outcomes.  Using heavily shorted names
 
 The histogram of results looked like this:
 
-![Histogram of Returns](Images/Hist1.JPG)
+![Histogram of Returns](Images/Hist1.PNG)
 
 Clearly the signalled distribution has more weight to the positive return side.

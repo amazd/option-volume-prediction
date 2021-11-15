@@ -1,32 +1,38 @@
 # Analyzing the Impact of Unusual Call Option Volumes on Underlying Stock Price Returns
 
-Python-based application designed to identify the impact of call option volumes on price action in the underlying stock.  The application features flexible filtering and processing functionality that users can manipulate for various use cases.  
+## Product:
+Python-based application designed to identify the impact of unusual call option volumes on subsequent price returns in the underlying stock.  The application features flexible filtering and processing functionality that users can manipulate for various use cases in addition to our own.  
 
-Our study sought to identify statistically meaningful patterns in unusual option volumes, short interest and sector the call/put ratio as predictive indicators for movement in stock price.
+
+## Object:
+Identify statistically impactful patterns in unusual option volumes, short interest and sector the call/put ratio as predictive indicators for movement in underlying stock prices.
 
 
 ## Data:
 
-OCC option volume data
-Bloomberg historical closing stock and option prices
+  - OCC option volume data
+  - Bloomberg historical closing stock and option prices
 
 
 ## Technologies:
 
-JupyterLab IDE
-Pandas
-Numpy
-Matplotlib
-Bloomberg API
-Fire
-Questionary
+  - JupyterLab IDE
+  - Pandas
+  - Numpy
+  - Matplotlib
+  - Bloomberg API (requires Bloomberg software and terminal access)
+  - Fire
+  - Questionary
 
 
 ## Installation Guide:
-Before running the app, first install the following dependencies on a command line interface.
+Before running the app, ensure that the libraries above are imported, then install the following dependencies on a command line interface.
 
-  pip install fire
-  pip install questionary
+  - pip install fire
+  - pip install questionary
+  - Bloomberg API:
+    1. python -m pip install — index-url=https://bloomberg.bintray.com/pip/simple blpapi
+    2. python import blpapi
 
 
 ## Usage: To use the application, clone the repository and run **app.py** with:
@@ -45,10 +51,10 @@ A series of prompts will need to be populated with numerical values.
 
 1. Filtering & Screening: Starting with the universe of the top 1200 most heavily optioned stocks on OCC member exchanges, we filter by several criteria to to generate a subset of tickers perceived to be the most likely stocks to be impacted by option flows:
 
-    - Call/Put ratio
-    - High Short Interest as a % of free float
-    - Ratio of call option volume vs trailing average call option volume (unusual volume filter)
-    - Subsequent measurement window expressed as # of trading days 
+   - Call/Put ratio
+   - High Short Interest as a % of free float
+   - Ratio of call option volume vs trailing average call option volume (unusual volume filter)
+   - Subsequent measurement window expressed as # of trading days 
 
 2. Statistical analysis:   The application performs a t-test on the daily returns of >1,100 stocks from 7/1/20 to 11/9/21 to see if the returns on days that fall within the parameters defined above exhibit greater positive returns than on days the signal was not live.  These groups of data represent our random variable and our control sample.
 
@@ -66,4 +72,4 @@ The histogram of results looked like this:
 
 ![Histogram of Returns](Images/Histogram.PNG)
 
-The empirical results are statistically and visually compelling.  The "Signal" population had a positive skewness and long right-tailed distribution vs the "No Signal" population.
+Our results are statistically significant, and the histogram above clearly shows a positive skewness of returns for the "Signal" population with a long right-tailed distribution.

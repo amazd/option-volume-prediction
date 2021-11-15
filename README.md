@@ -16,8 +16,29 @@ Bloomberg historical closing stock and option prices
 JupyterLab IDE
 Pandas
 Numpy
-HvPlot
+Matplotlib
 Bloomberg API
+Fire
+Questionary
+
+
+## Installation Guide:
+Before running the app, first install the following dependencies on a command line interface.
+
+  pip install fire
+  pip install questionary
+
+
+## Usage: To use the application, clone the repository and run **app.py** with:
+
+python app.py
+
+When app.py is opened, the following welcome screen will appear.
+![AppIntro](Images/AppIntro.PNG)
+
+A series of prompts will need to be populated with numerical values.
+![AppQuestions](Images/AppQuestions.PNG)
+
 
 
 ## Data Filtering & Analytical Criteria:
@@ -34,7 +55,7 @@ Bloomberg API
 3. Data visualization:     Histograms, line charts and density plots are generated in matplotlib and hvplot to display the empirical distribution of returns for a stock or group of stocks.  For the sake of our study, we are concerned with all tickers meeting the filter conditions vs the broader market, represented by SPY.  If our hypothesis is accurate, there will be observable right-tail skewness in the distribution of returns for the filtered sample vs the "no signal" sample.  
 
 
-Conclusions:
+## Conclusions:
 The goal of the application was to allow the user to test and see the results from various combinations of inputs.
 
 That being said, we found some intersting outcomes.  Using heavily shorted names as a filter, our analysis indicated significant results.  Through our T-test, it was clear that increased call option volume was a leading indicator for positive stock returns.  The summary of data indicates that the mean for the signalled returns is clearly higher.  The T-Stat is over 4 and the probabilty that the result is signfiicant is almost 100% (p value close to 0).  Here is a summary of this set of results:
@@ -45,4 +66,4 @@ The histogram of results looked like this:
 
 ![Histogram of Returns](Images/Histogram.PNG)
 
-Clearly the signalled distribution has more weight to the positive return side.
+The empirical results are statistically and visually compelling.  The "Signal" population had a positive skewness and long right-tailed distribution vs the "No Signal" population.
